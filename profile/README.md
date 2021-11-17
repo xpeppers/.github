@@ -1,3 +1,4 @@
+![Illustrazione di otto pezzi di puzzle. Al centro, un nono pezzo rappresentate Claranet](claranet.png)
 ## Il team
 Un’azienda di sviluppo software, ma prima di tutto, un team di persone appassionate della Metodologia Agile e di tecnologia. 
 ## I valori
